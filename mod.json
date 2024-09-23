@@ -1,0 +1,16 @@
+{
+	"displayName": "DiverseMechLances",
+	"version": "1.0",
+	"buildNumber": 102,
+	"description": "",
+	"author": "h4ilst0rm",
+	"authorURL": "",
+	"defaultLoadOrder": 999,
+	"gameVersion": "1.1.0",
+	"manifest": [
+		"/Game/Libraries/MW5_MissionLibrary.uasset"
+	],
+	"steamPublishedFileId": 0,
+	"steamLastSubmittedBuildNumber": 0,
+	"steamModVisibility": "Private"
+}
